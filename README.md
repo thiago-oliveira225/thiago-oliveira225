@@ -8,8 +8,8 @@
 
 ## Habilidades Técnicas
 
-- 💻 Linguagens de Programação: [Python] 
-- 📊 Ferramentas : [Git e GitHub]
+- 💻 Linguagens de Programação: [Python] [SQL] [HTML] [CSS] [JavaScript] 
+- 📊 Ferramentas : [Git e GitHub] [MySQL]
 
 <!---
 thiago-oliveira225/thiago-oliveira225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
